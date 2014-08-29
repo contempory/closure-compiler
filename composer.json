@@ -1,0 +1,11 @@
+{
+    "name": "contempory/closure-compiler",
+    "description": "The Closure Compiler is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript.",
+    "homepage": "https://developers.google.com/closure/compiler/",
+    "license": "APACHE-2.0",
+    "support": {
+        "issues": "https://github.com/google/closure-compiler/issues",
+        "wiki": "https://developers.google.com/closure/compiler/docs/overview",
+        "source": "https://github.com/google/closure-compiler"
+    }
+}
